@@ -1,0 +1,20 @@
+{
+  "name": "2.4-swamp-rabbit-directory",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "sass": "node-sass -w scss -o css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/POLaferriere/2.4-swamp-rabbit-directory.git"
+  },
+  "author": "PO",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/POLaferriere/2.4-swamp-rabbit-directory/issues"
+  },
+  "homepage": "https://github.com/POLaferriere/2.4-swamp-rabbit-directory#readme"
+}
